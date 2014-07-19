@@ -9,4 +9,4 @@ category: blog
 
 
 
-[WeiboRecom]:    http://weibo.com  "WeiboRecom"
+[BeiYuu]:    http://beiyuu.com  "BeiYuu"
